@@ -1,0 +1,8 @@
+name: aplicacao_bancaria
+description: aplicacao_bancaria
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.21.0
